@@ -8,11 +8,11 @@ This data source is taken from Kaggle. Taking help of this dataset of Atliq Gran
 ## Objective
 The goal is to use this dataset and developed an interactive dashboard to help the revenue management team at Atliq Hotels track and analyze key performance indicators (KPIs) across 25 properties in 4 cities.
 
-## Skills Used: 
+## Skills Used
 Power BI, DAX, Data Visualization, Trend Analysis, Data analysis 
 
-## Data Description
-This points contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
+## Data Set
+ There are 5 CSV files:
 
  - <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI DAX/blob/3404036b8ae0fd3b311ebe9d4251012049f05985/dim_date.csv"> dim_dates.csv </a>
  - <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI-DAX/blob/3404036b8ae0fd3b311ebe9d4251012049f05985/dim_hotels.csv"> dim_hotels.csv</a>
@@ -21,6 +21,8 @@ This points contains all the meta information regarding the columns described in
 - <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI-DAX/blob/3404036b8ae0fd3b311ebe9d4251012049f05985/fact_bookings.csv"> fact_bookings.csv </a>
 
 ## Column Description
+This points contains all the meta information regarding the columns described in the CSV files.
+
 - Column Description for dim_date:
 1. date: This column represents the dates present in May, June and July.
 2. mmm yy: This column represents the date in the format of mmm yy (monthname year).
