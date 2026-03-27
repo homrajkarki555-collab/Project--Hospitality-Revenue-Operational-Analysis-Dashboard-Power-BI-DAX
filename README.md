@@ -8,6 +8,9 @@ This data source is taken from Kaggle. Takening help of this dataset of Atliq Gr
 ## Objective
 The goal is to use this dataset and developed an interactive dashboard to help the revenue management team at Atliq Hotels track and analyze key performance indicators (KPIs) across 25 properties in 4 cities.
 
+## Skills Used: 
+Power BI, DAX, Data Visualization, Trend Analysis, Data analysis 
+
 ## Data Description
 This points contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 1. dim_date
@@ -86,3 +89,16 @@ Engineered more than 20 complex DAX measures to calculate critical hospitality m
 - Realisation WoW change %	"To get the Realisation change percentage week over week.
 - DSRN WoW change %- To get the DSRN(Daily Sellable Room Nights) change percentage week over week.
 
+## Strategic Business Insights
+- Identifying Pricing Flaws: By looking at a flat ADR line while Occupancy fluctuates, you can prove a hotel is using "Flat Pricing" instead of "Dynamic Pricing," which means they are likely leaving money on the table during peak seasons.
+- Correlation between Ratings and Revenue: There is a direct correlation in your table between Average Rating and Occupancy. Properties like Atliq City Delhi and Atliq Grands Bangalore have ratings near 3.0 and the lowest occupancy rates (~44–53%).
+
+
+## Decision
+- Implementing a Dynamic Pricing Strategy- Moved from "Flat Pricing" to Dynamic Pricing. Increase rates by 15–20% during high-demand periods (Weekends/Holidays) and offered "Log-in only" promotional discounts during low-occupancy weekdays to steal market share from competitors. This directly increases RevPAR. By optimizing the price for every room sold, you stop leaving money on the table during peak weeks.
+- Service Recovery for Low-Rating Properties- Redirect capital expenditure to renovate or improve service standards at these specific properties.
+- Optimizing the "Realization" Gap- Realization % is at 70.14%, meaning nearly 30% of your potential revenue is lost to cancellations and no-shows. To tackle that, we need to Implement a Non-Refundable Rate at a slightly lower price point (e.g., 5% off) to lock in revenue and reduce the 24.84% Cancellation Rate. This ensures that a "booking" actually turns into "cash in hand".
+
+
+## Business Impact
+By moving the average occupancy from 57% to 62% and optimizing ADR through dynamic pricing, you can expect a total revenue growth of approximately 14% to 16%. Taking the conservative estimate of +14%, our revenue would grow from 1.69bn to ~1.93bn.
