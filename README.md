@@ -97,6 +97,8 @@ Engineered more than 20 complex DAX measures to calculate critical hospitality m
 ## Dasboard -
 - <a href="Recording 2026-03-27 113140.mp4">Screen recording of the dashboard </a>
 
+- <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI-DAX/blob/5bc2eea6451b36e6662ba6020199a9763312e40f/Screenshot%202026-03-20%20145500.png">Screenshot of the dashboard </a>
+
 ## Decision
 - Implementing a Dynamic Pricing Strategy- Moved from "Flat Pricing" to Dynamic Pricing. Increase rates by 15–20% during high-demand periods (Weekends/Holidays) and offered "Log-in only" promotional discounts during low-occupancy weekdays to steal market share from competitors. This directly increases RevPAR. By optimizing the price for every room sold, you stop leaving money on the table during peak weeks.
 - Service Recovery for Low-Rating Properties- Redirect capital expenditure to renovate or improve service standards at these specific properties.
@@ -105,3 +107,9 @@ Engineered more than 20 complex DAX measures to calculate critical hospitality m
 
 ## Business Impact
 By moving the average occupancy from 57% to 62% and optimizing ADR through dynamic pricing, you can expect a total revenue growth of approximately 14% to 16%. Taking the conservative estimate of +14%, our revenue would grow from 1.69bn to ~1.93bn.
+
+## Author and Contact
+- Homraj karki
+- Data Analysis
+- Email- homrajkarki555@gmail.com
+- Linkdin- <a href="https://www.linkedin.com/in/homraj-karki/">Linkdin Profile </a>
