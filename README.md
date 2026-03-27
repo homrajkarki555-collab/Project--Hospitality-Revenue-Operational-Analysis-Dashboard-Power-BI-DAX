@@ -92,8 +92,8 @@ Engineered more than 20 complex DAX measures to calculate critical hospitality m
 ## Strategic Business Insights
 - Identifying Pricing Flaws: By looking at a flat ADR line while Occupancy fluctuates, you can prove a hotel is using "Flat Pricing" instead of "Dynamic Pricing," which means they are likely leaving money on the table during peak seasons.
 - Correlation between Ratings and Revenue: There is a direct correlation in your table between Average Rating and Occupancy. Properties like Atliq City Delhi and Atliq Grands Bangalore have ratings near 3.0 and the lowest occupancy rates (~44–53%).
-
-
+## Dasboard -
+- <a href="Recording 2026-03-27 113140.mp4">Screenrecording of the dashboard </a> </a>
 ## Decision
 - Implementing a Dynamic Pricing Strategy- Moved from "Flat Pricing" to Dynamic Pricing. Increase rates by 15–20% during high-demand periods (Weekends/Holidays) and offered "Log-in only" promotional discounts during low-occupancy weekdays to steal market share from competitors. This directly increases RevPAR. By optimizing the price for every room sold, you stop leaving money on the table during peak weeks.
 - Service Recovery for Low-Rating Properties- Redirect capital expenditure to renovate or improve service standards at these specific properties.
