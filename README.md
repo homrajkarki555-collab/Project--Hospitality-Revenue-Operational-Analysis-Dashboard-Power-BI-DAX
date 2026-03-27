@@ -3,7 +3,7 @@ Developed a decision-support dashboard for a hotel chain to identify a 14% reven
 
 
 ## Data Source
-This data source is taken from Kaggle. Takening help of this dataset of Atliq Grands which owns 5 star hotels across India. We need to prepare a Dashboard, analyze the data & generate some insights for the stakeholders of Atliq hotels based on which they can take strategic decisions to improve its business.
+This data source is taken from Kaggle. Taking help of this dataset of Atliq Grands which owns 5 star hotels across India. We need to prepare a Dashboard, analyze the data & generate some insights for the stakeholders of Atliq hotels based on which they can take strategic decisions to improve its business.
 
 ## Objective
 The goal is to use this dataset and developed an interactive dashboard to help the revenue management team at Atliq Hotels track and analyze key performance indicators (KPIs) across 25 properties in 4 cities.
@@ -13,13 +13,14 @@ Power BI, DAX, Data Visualization, Trend Analysis, Data analysis
 
 ## Data Description
 This points contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
-1. dim_date
-2. dim_hotels
-3. dim_rooms
-4. fact_aggregated_bookings
-5. fact_bookings
 
+ - <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI DAX/blob/3404036b8ae0fd3b311ebe9d4251012049f05985/dim_date.csv"> dim_dates.csv </a>
+ - <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI-DAX/blob/3404036b8ae0fd3b311ebe9d4251012049f05985/dim_hotels.csv"> dim_hotels.csv</a>
+ - <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI-DAX/blob/3404036b8ae0fd3b311ebe9d4251012049f05985/dim_rooms.csv"> dim_rooms.csv </a>
+ - <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI DAX/blob/3404036b8ae0fd3b311ebe9d4251012049f05985/fact_aggregated_bookings.csv"> fact_aggregated_bookings.csv </a>
+- <a href="https://github.com/homrajkarki555-collab/Project--Hospitality-Revenue-Operational-Analysis-Dashboard-Power-BI-DAX/blob/3404036b8ae0fd3b311ebe9d4251012049f05985/fact_bookings.csv"> fact_bookings.csv </a>
 
+## Column Description
 - Column Description for dim_date:
 1. date: This column represents the dates present in May, June and July.
 2. mmm yy: This column represents the date in the format of mmm yy (monthname year).
@@ -92,8 +93,10 @@ Engineered more than 20 complex DAX measures to calculate critical hospitality m
 ## Strategic Business Insights
 - Identifying Pricing Flaws: By looking at a flat ADR line while Occupancy fluctuates, you can prove a hotel is using "Flat Pricing" instead of "Dynamic Pricing," which means they are likely leaving money on the table during peak seasons.
 - Correlation between Ratings and Revenue: There is a direct correlation in your table between Average Rating and Occupancy. Properties like Atliq City Delhi and Atliq Grands Bangalore have ratings near 3.0 and the lowest occupancy rates (~44–53%).
+- 
 ## Dasboard -
-- <a href="Recording 2026-03-27 113140.mp4">Screenrecording of the dashboard </a> </a>
+- <a href="Recording 2026-03-27 113140.mp4">Screen recording of the dashboard </a>
+
 ## Decision
 - Implementing a Dynamic Pricing Strategy- Moved from "Flat Pricing" to Dynamic Pricing. Increase rates by 15–20% during high-demand periods (Weekends/Holidays) and offered "Log-in only" promotional discounts during low-occupancy weekdays to steal market share from competitors. This directly increases RevPAR. By optimizing the price for every room sold, you stop leaving money on the table during peak weeks.
 - Service Recovery for Low-Rating Properties- Redirect capital expenditure to renovate or improve service standards at these specific properties.
